@@ -1,4 +1,5 @@
 <h1 align="left">Hey 👋 my name is Leo Zorzii, Werlcome my github</h1>
+<h2 align="left"> I'm in the first semester of the information systems course.</h2>
 
 ###
 
