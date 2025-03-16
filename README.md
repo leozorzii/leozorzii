@@ -6,7 +6,7 @@
 ###
 
 <h2 align="left">About me</h2>
-<h2 align="left"> I'm in the first semester of the information systems course.</h2>
+<h4 align="left"> I'm in the first semester of the information systems course.</h4>
 
 ###
 <p>< ...</p>
