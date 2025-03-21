@@ -9,5 +9,5 @@
 <h4 align="left"> I'm in the first semester of the information systems course.</h4>
 
 ###
-<p>< ...</p>
+<p> in progress...</p>
 
