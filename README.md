@@ -2,25 +2,26 @@
 
 Seja bem-vindo(a) ao meu portfólio de projetos! Aqui você vai encontrar trabalhos e experimentos que desenvolvi ao longo da minha graduação e aprendizados na área de tecnologia.
 
-🎓 Graduando em **Sistemas de Informação** pela **UFN (Universidade Franciscana)**  
-💻 Interesses: Desenvolvimento Web, Front-End, Prática de Programação  
-🌱 Aprendendo: **HTML**, **CSS** e começando com **JavaScript**
+ Graduando em **Sistemas de Informação** pela **UFN (Universidade Franciscana)**  
+ Interesses: Desenvolvimento Web, Front-End, Prática de Programação  
+ Aprendendo: **HTML**, **CSS** e começando com **JavaScript** e **C**
 
 ---
 
-## 🚀 Sobre Mim
+##  Sobre Mim
 
 Sou apaixonado por tecnologia e estou construindo minha trajetória como desenvolvedor. Gosto de criar interfaces simples e funcionais enquanto aprendo os fundamentos da programação web.
-
+Planejo me tornar dev Full-Stack num futuro próximo.
 Este repositório serve como registro da minha evolução, desafios que enfrento e soluções que desenvolvo durante meus estudos. Sinta-se à vontade para explorar meus projetos e acompanhar meu progresso!
 
 ---
 
-## 🛠️ Habilidades Iniciais
+##  Habilidades Iniciais
 
 - HTML
 - CSS
 - JavaScript (básico)
+- C (básico)
 - Git e GitHub (versionamento básico)
 
 ---
@@ -29,15 +30,12 @@ Este repositório serve como registro da minha evolução, desafios que enfrento
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|--------------|
-| Em breve... | Projetos estarão disponíveis à medida que forem desenvolvidos | HTML, CSS, JS |
+| Em breve... | Projetos estarão disponíveis à medida que forem desenvolvidos | HTML, CSS, JS, C |
 
 ---
 
-## 📫 Contato
-
-- ✉️ Email: **leonardozorzi@email.com** (troque pelo seu email real)
-- 🔗 LinkedIn: [linkedin.com/in/leonardozorzi](https://linkedin.com/in/leonardozorzi) (atualize com seu link real)
-
+## Contato
+- ✉️ Email: **leomzorzi@gmail.com**
 ---
 
 ✨ Obrigado por visitar meu portfólio. Em constante construção — assim como meu aprendizado!
