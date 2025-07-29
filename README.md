@@ -4,7 +4,7 @@ Seja bem-vindo(a) ao meu portfólio de projetos! Aqui você vai encontrar trabal
 
  Graduando em **Sistemas de Informação** pela **UFN (Universidade Franciscana)**  
  Interesses: Desenvolvimento Web, Front-End, Prática de Programação  
- Aprendendo: **HTML**, **CSS** e começando com **JavaScript** e **C**
+ Aprendendo: **HTML**, **CSS**, **JavaScript** e **C**
 
 ---
 
