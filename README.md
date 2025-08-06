@@ -21,7 +21,7 @@ Este repositório serve como registro da minha evolução, desafios que enfrento
 - HTML
 - CSS
 - JavaScript (básico)
-- C (básico)
+- C e C++(básico)
 - Git e GitHub (versionamento básico)
 
 ---
