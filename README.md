@@ -26,14 +26,6 @@ Este repositório serve como registro da minha evolução, desafios que enfrento
 
 ---
 
-## 📁 Projetos
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|--------------|
-| Em breve... | Projetos estarão disponíveis à medida que forem desenvolvidos | HTML, CSS, JS, C |
-
----
-
 ## Contato
 - ✉️ Email: **leomzorzi@gmail.com**
 ---
