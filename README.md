@@ -2,9 +2,7 @@
 
 Seja bem-vindo(a) ao meu portfólio de projetos!
 
- Graduando em **Sistemas de Informação** pela **UFN (Universidade Franciscana)**  
- Interesses: Banco de Dados, Back-End, Prática de Programação  
- Conhecimentos: **HTML**, **CSS**, **JavaScript**, **C** , **Java** e **c++**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
