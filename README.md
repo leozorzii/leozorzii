@@ -1,22 +1,16 @@
 # Olá! Me chamo Leozorzii.
-
-Seja bem-vindo(a) ao meu github!
-
-[![leozorzii's GitHub stats](https://github-readme-stats.vercel.app/api?username=leozorzii)](https://github.com/leozorzii/github-readme-stats)
+Seja bem-vindo(a) ao meu GitHub!
 
 ---
 
-##  Sobre Mim
- Atualmente reforçando fundamentos de **POO e backend**, com projetos em **linha de comando (IntelliJ)**.  
- Sempre buscando evoluir em lógica de programação.
+## 🚀 Sobre Mim
+Atualmente reforçando fundamentos de **POO e backend**, com projetos em **linha de comando (IntelliJ)**.  
+Sempre buscando evoluir em lógica de programação.
 
+---
 
-<p alight="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="150" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="150" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="150" height="50"/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="150" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="150" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="150" height="50"/>
-</p>
-</p>
+## 📊 Stats & 🛠️ Tecnologias
+
+| GitHub Stats | Linguagens & Ferramentas |
+|--------------|---------------------------|
+| [![leozorzii's GitHub stats](https://github-readme-stats.vercel.app/api?username=leozorzii&show_icons=true&theme=tokyonight)](https://github.com/leozorzii/github-readme-stats) | <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git_)]()
