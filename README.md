@@ -8,26 +8,12 @@ Seja bem-vindo(a) ao meu portfólio de projetos!
 
 ##  Sobre Mim
 
-### 🚀 Tecnologias que uso:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Linguagens e Ferramentas:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
 
 
----
-
-##  Habilidades Iniciais
-
-- HTML
-- CSS
-- JavaScript (básico)
-- C e C++
-- java(basico)
-- Git e GitHub (intermediario)
----
-
-## Contato
-- ✉️ Email: **leomzorzi@gmail.com**
----
 
 ✨ Obrigado por visitar meu portfólio.
