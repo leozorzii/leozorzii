@@ -1,4 +1,4 @@
-# 👋 Olá! Me chamo Leo Zorzi.
+# Olá! Me chamo Leo Zorzi.
 
 Seja bem-vindo(a) ao meu portfólio de projetos!
 
@@ -8,9 +8,11 @@ Seja bem-vindo(a) ao meu portfólio de projetos!
 
 ##  Sobre Mim
 
-Sou apaixonado por tecnologia e estou construindo minha trajetória como desenvolvedor. Gosto de criar interfaces simples e funcionais enquanto aprendo os fundamentos da programação.
-Planejo me tornar dev Full-Stack num futuro próximo.
-Este repositório serve como registro da minha evolução, desafios que enfrento e soluções que desenvolvo durante meus estudos. Sinta-se à vontade para explorar meus projetos e acompanhar meu progresso!
+### 🚀 Tecnologias que uso:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
