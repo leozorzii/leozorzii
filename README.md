@@ -27,7 +27,6 @@ Busco constantemente evoluir minha **lógica de programação**, explorando ling
 
 ---
 
-📫 Vamos trocar ideia:
 <p align="center">
   <a href="https://github.com/leozorzii" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"/>
