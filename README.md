@@ -27,19 +27,19 @@ Busco constantemente evoluir minha **lógica de programação**, explorando ling
 
 ---
 
-📫 Vamos trocar ideia:<p align="center">
+📫 Vamos trocar ideia:
+<p align="center">
   <a href="https://github.com/leozorzii" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/leonardo-montagner-de-zorzi-92491b362" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/leozorzii" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50" alt="Instagram"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" alt="Instagram"/>
   </a>
 </p>
-
 
 ---
