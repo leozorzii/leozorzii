@@ -25,7 +25,8 @@ Always leveling up my **logic**, exploring both low-level and high-level languag
 
 | GitHub Stats | Most Used Languages |
 |---------------|----------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=leozorzii&show_icons=true&theme=tokyonight&hide_title=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozorzii&layout=compact&theme=tokyonight&hide_title=true" /> |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leozorzii&layout=compact&theme=transparent&hide_border=true)
+ | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozorzii&layout=compact&theme=tokyonight&hide_title=true" /> |
 
 ---
 
