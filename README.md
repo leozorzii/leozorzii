@@ -23,16 +23,6 @@ Always sharpening my **logic**, exploring both **low-level** and **high-level** 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
- <img height="165" src="https://github-readme-stats.vercel.app/api?username=leozorzii&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&cache_seconds=1800" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozorzii&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
