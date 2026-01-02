@@ -26,7 +26,7 @@ Always sharpening my **logic**, exploring both **low-level** and **high-level** 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/leozorzii" target="_blank">
+  <a href="https://github.com/leozorzii" target="_white">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
   </a>
   &nbsp;&nbsp;&nbsp;
