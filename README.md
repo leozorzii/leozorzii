@@ -5,7 +5,7 @@ Welcome to my GitHub space 🚀
 
 ## 👨‍💻 About Me  
 Currently doubling down on **Object-Oriented Programming (OOP)** fundamentals and **backend development**,  
-focusing on **command-line projects** using **IntelliJ**.  
+focusing on **command-line projects**. 
 
 Always sharpening my **logic**, exploring both **low-level** and **high-level** languages.
 
