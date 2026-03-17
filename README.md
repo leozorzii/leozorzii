@@ -11,7 +11,7 @@ Always sharpening my **logic**, exploring both **low-level** and **high-level** 
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/leozorzii/github-readme-stats)
 
 ## 🛠️ Tech & Tools
 
