@@ -13,7 +13,7 @@ Always sharpening my **logic**, exploring both **low-level** and **high-level** 
 
 <div align="left">
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leozorzii&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leozorzii&layout=compact&langs_count=8&theme=nightowl"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leozorzii&layout=compact&langs_count=8&theme=nightowl&hide=html,css,c,cpp"/>
 </div>
 
 ## 🛠️ Tech & Tools
