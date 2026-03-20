@@ -22,9 +22,6 @@ Always sharpening my **logic**, exploring both **low-level** and **high-level** 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net" width="70" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net" width="70" alt="Python" />
-  <img src="https://cdn.jsdelivr.net" width="70" alt="React" />
 </p>
 
 ---
