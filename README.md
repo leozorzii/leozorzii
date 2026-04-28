@@ -1,4 +1,4 @@
-# 👋 Hey! I'm **Leozorzii**
+# 👋 Hey! I'm **Leozorzi**
 Welcome to my GitHub space 🚀
 
 ---
