@@ -25,9 +25,6 @@ Always sharpening my **logic**, exploring both **low-level** and **high-level** 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" />
 </p>
-
-![Estatísticas do leozorzii](https://github-readme-stats.vercel.app/api?username=leozorzii&show_icons=true&theme=dark)
-
 ---
 
 ## Connect with Me
