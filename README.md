@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm **Leonardo Montagner (Leozorzi)**
-### **Junior Full Stack Developer** 🚀
+### **Junior Full Stack Developer** 
 
 Welcome to my GitHub space! I am an Information Systems student and developer driven by solving complex problems, building scalable web architectures, and writing clean, efficient code.
 
@@ -12,7 +12,7 @@ Welcome to my GitHub space! I am an Information Systems student and developer dr
 - 🎓 Pursuing a Bachelor's degree in Information Systems at UFN.
 ---
 
-## 🧰 Tech Stack & Tools
+## Tech Stack & Tools
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ Welcome to my GitHub space! I am an Information Systems student and developer dr
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git"/> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" title="GitHub"/> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" title="VS Code"/> &nbsp;
-      <img src="https://api.iconify.design/logos:cloudflare.svg" width="55" title="Cloudflare"/>
+      <img src="https://api.iconify.design/logos:cloudflare.svg" width="95" title="Cloudflare"/>
     </td>
   </tr>
 </table>
