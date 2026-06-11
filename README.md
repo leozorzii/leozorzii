@@ -47,7 +47,7 @@ Welcome to my GitHub space! I am an Information Systems student and developer dr
 ## 📊 Git Status
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leozorzii&layout=compact&langs_count=8&theme=algolia&hide=html,css,c,cpp"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leozorzii&layout=compact&langs_count=8&theme=algolia&hide=html,css,c,c%2B%2B,cplusplus"/>
 </div>
 
 ---
