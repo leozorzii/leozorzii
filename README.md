@@ -1,44 +1,74 @@
-# 👋 Hey! I'm **Leozorzi**
-Welcome to my GitHub space 🚀
+# 👋 Hey there! I'm **Leonardo Montagner (Leozorzi)**
+### **Junior Full Stack Developer** 🚀
+
+Welcome to my GitHub space! I am an Information Systems student and developer driven by solving complex problems, building scalable web architectures, and writing clean, efficient code.
 
 ---
 
-## About Me  
-Currently doubling down on **Object-Oriented Programming (OOP)** fundamentals and **backend development**,  
-focusing on **command-line projects**. 
-
-Always sharpening my **logic**, exploring both **low-level** and **high-level** languages.
+## ⚡ About Me  
+- 🏢 Currently working on web applications, SaaS platforms, and financial analytics integrations.
+- ⚙️ Deeply focused on **Object-Oriented Programming (OOP)**, robust backend systems, and modern frontend interfaces.
+- 🛠️ Experienced in developing end-to-end marketplace structures, JWT authentication flows, and data security standards.
+- 🎓 Pursuing a Bachelor's degree in Information Systems at UFN.
 
 ---
+
+## 🏗️ Featured Projects / What I've Been Building
+- **Invyra:** A premium personal wealth management dashboard tailored for the Brazilian financial market.
+- **Accione Investimentos:** An institutional ecosystem integrated with an admin panel featuring JWT authentication and AES-256 secure encryption.
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Frontend</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="React"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" title="TypeScript"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" title="JavaScript"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" title="HTML5"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" title="CSS3"/>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Backend & DB</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" title="Java"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" title="Node.js"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" title="PostgreSQL"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" title="Python"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" title="C++"/>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Tools & DevOps</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" title="GitHub"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" title="VS Code"/> &nbsp;
+      <img src="https://api.iconify.design/logos:cloudflare.svg" width="35" title="Cloudflare"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Git Status
 
 <div align="left">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leozorzii&layout=compact&langs_count=8&theme=algolia&hide=html,css,c,cpp"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leozorzii&layout=compact&langs_count=8&theme=algolia&hide=html,css,c,cpp"/>
 </div>
 
-## Tech & Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" />
-</p>
 ---
 
-## Connect with Me
+## 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://github.com/leozorzii" target="_white">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/leonardo-montagner-de-zorzi-92491b362" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/leozorzii" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50"/>
+<p align="left">
+  <a href="https://linkedin.com/in/leozorzii" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> &nbsp;
+  <a href="https://instagram.com/leozorzii" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a> &nbsp;
+  <a href="mailto:leomzorzi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
