@@ -10,13 +10,6 @@ Welcome to my GitHub space! I am an Information Systems student and developer dr
 - ⚙️ Deeply focused on **Object-Oriented Programming (OOP)**, robust backend systems, and modern frontend interfaces.
 - 🛠️ Experienced in developing end-to-end marketplace structures, JWT authentication flows, and data security standards.
 - 🎓 Pursuing a Bachelor's degree in Information Systems at UFN.
-
----
-
-## 🏗️ Featured Projects / What I've Been Building
-- **Invyra:** A premium personal wealth management dashboard tailored for the Brazilian financial market.
-- **Accione Investimentos:** An institutional ecosystem integrated with an admin panel featuring JWT authentication and AES-256 secure encryption.
-
 ---
 
 ## 🧰 Tech Stack & Tools
