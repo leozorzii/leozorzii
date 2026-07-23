@@ -66,10 +66,11 @@ Information Systems undergraduate building scalable web applications, SaaS platf
 
 ## GitHub Stats
 
-<div align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leozorzii&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozorzii&layout=compact&langs_count=8&theme=algolia&hide_border=true&hide=html,css,c,c%2B%2B" alt="Top Languages"/>
+<div align="left"> 
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leozorzii&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats"/> 
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozorzii&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Top Languages"/> 
 </div>
+
 
 ---
 
