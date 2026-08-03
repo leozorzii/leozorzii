@@ -54,9 +54,6 @@ Information Systems undergraduate building scalable web applications, SaaS platf
 
 ## Featured Projects
 
-**Invyra** — Personal investment portfolio dashboard with real-time stock pricing, CDI and risk analytics, and portfolio-vs-benchmark reporting.
-`React` · `TypeScript` · `Fastify` · `Prisma` · `PostgreSQL`
-
 **Agrocash** — Backend engineering on an agribusiness platform, including compliance and diagnostics integrations, security hardening, and API design.
 `FastAPI` · `PostgreSQL` · `AWS` · `Docker`
 
