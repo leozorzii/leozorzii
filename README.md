@@ -83,8 +83,9 @@ Second-largest human contributor on the front-end repository.
 
 Collects public posts, cleans and analyzes text, and reports trends, sentiment and how both change over time. Built with Django REST Framework, PostgreSQL, Celery and Redis, with pytest and Docker, plus an MCP server.
 
-<!-- Record a short screen capture to assets/pulsestream-demo.gif, then uncomment: -->
-<!-- <img src="assets/pulsestream-demo.gif" alt="PulseStream demo" width="720" /> -->
+<div align="center">
+<img src="assets/pulsestream-flow.svg" alt="PulseStream pipeline: collect, clean, analyze, report" width="720" />
+</div>
 
 [Repository](https://github.com/leozorzii/PulseStream)
 

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="PulseStream pipeline: collect, clean, analyze, report">
+  <defs>
+    <style>
+      .bg { fill: #0b0b0c; }
+      .box { fill: #161618; stroke: #3f3f46; stroke-width: 1.5; }
+      .t { font: 600 15px 'Segoe UI', Arial, sans-serif; fill: #e4e4e7; text-anchor: middle; }
+      .s { font: 12px 'Consolas', 'Courier New', monospace; fill: #71717a; text-anchor: middle; }
+      .line { stroke: #3f3f46; stroke-width: 2; stroke-dasharray: 4 6; }
+      .dot { fill: #60a5fa; }
+      .pos { fill: #4ade80; } .neg { fill: #f87171; } .neu { fill: #a1a1aa; }
+      .pulse { animation: pulse 6s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { stroke: #3f3f46; } 50% { stroke: #60a5fa; } }
+      .b1 { animation: g 6s ease-in-out infinite; transform-origin: bottom; transform-box: fill-box; }
+      .b2 { animation: g 6s ease-in-out infinite .4s; transform-origin: bottom; transform-box: fill-box; }
+      .b3 { animation: g 6s ease-in-out infinite .8s; transform-origin: bottom; transform-box: fill-box; }
+      @keyframes g { 0%,40% { transform: scaleY(.2); } 70%,100% { transform: scaleY(1); } }
+    </style>
+  </defs>
+  <rect class="bg" width="900" height="260"/>
+
+  <line class="line" x1="170" y1="110" x2="260" y2="110"/>
+  <line class="line" x1="400" y1="110" x2="490" y2="110"/>
+  <line class="line" x1="630" y1="110" x2="720" y2="110"/>
+
+  <rect class="box pulse" x="30" y="60" width="140" height="100" rx="10"/>
+  <text class="t" x="100" y="100">Collect</text><text class="s" x="100" y="124">public posts</text><text class="s" x="100" y="142">Celery workers</text>
+
+  <rect class="box pulse" x="260" y="60" width="140" height="100" rx="10" style="animation-delay:1.5s"/>
+  <text class="t" x="330" y="100">Clean</text><text class="s" x="330" y="124">normalize text</text><text class="s" x="330" y="142">deduplicate</text>
+
+  <rect class="box pulse" x="490" y="60" width="140" height="100" rx="10" style="animation-delay:3s"/>
+  <text class="t" x="560" y="100">Analyze</text><text class="s" x="560" y="124">sentiment</text><text class="s" x="560" y="142">topics</text>
+
+  <rect class="box pulse" x="720" y="40" width="150" height="140" rx="10" style="animation-delay:4.5s"/>
+  <text class="t" x="795" y="66">Trends</text>
+  <rect class="b1 pos" x="745" y="100" width="22" height="60"/>
+  <rect class="b2 neu" x="777" y="115" width="22" height="45"/>
+  <rect class="b3 neg" x="809" y="130" width="22" height="30"/>
+
+  <circle class="dot" r="5" cy="110"><animate attributeName="cx" values="30;100;170;260;330;400;490;560;630;720;795" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;1;1;1;1;1;1;1;0" dur="6s" repeatCount="indefinite"/></circle>
+  <circle class="dot" r="5" cy="110" opacity="0"><animate attributeName="cx" values="30;100;170;260;330;400;490;560;630;720;795" dur="6s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;1;1;1;1;1;1;1;0" dur="6s" begin="2s" repeatCount="indefinite"/></circle>
+  <circle class="dot" r="5" cy="110" opacity="0"><animate attributeName="cx" values="30;100;170;260;330;400;490;560;630;720;795" dur="6s" begin="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;1;1;1;1;1;1;1;0" dur="6s" begin="4s" repeatCount="indefinite"/></circle>
+
+  <text class="s" x="450" y="225">Django REST Framework  /  PostgreSQL  /  Redis  /  React</text>
+</svg>
